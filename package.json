@@ -1,0 +1,14 @@
+{
+  "name": "ADF",
+  "version": "1.0.0",
+  "description": "Automated Dingtalk for Fedora",
+  "main": "index.js",
+  "repository": "https://github.com/Ravenclaw-OIer/ADF",
+  "author": "Lily White",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.27.2",
+    "hasha": "^5.2.2"
+  }
+}
